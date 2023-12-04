@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="resources/mmseg-logo.png" width="600"/>
   <div>&nbsp;</div>
@@ -323,3 +324,6 @@ This project is released under the [Apache 2.0 license](LICENSE).
 - [MMRazor](https://github.com/open-mmlab/mmrazor): OpenMMLab model compression toolbox and benchmark.
 - [MIM](https://github.com/open-mmlab/mim): MIM installs OpenMMLab packages.
 - [Playground](https://github.com/open-mmlab/playground): A central hub for gathering and showcasing amazing projects built upon OpenMMLab.
+=======
+# COMP9501
+>>>>>>> 7110a4e56dc3ae3105690463aacee2e76568f94b
